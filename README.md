@@ -58,3 +58,10 @@ Open [http://localhost:8080](http://localhost:8080) to access Open WebUI.
 ## Pull a model
 
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/243fd811-b382-41c0-9e54-febc636c646b">
+
+## Configuration Setting
+
+Disable OpenAI and enable Ollama configuration by modifying it to http://localhost:11434
+
+<img width="1236" alt="image" src="https://github.com/user-attachments/assets/ea8f0e9c-4d45-4980-ab54-9b93ce2a588b">
+
