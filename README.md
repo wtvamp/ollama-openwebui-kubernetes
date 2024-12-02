@@ -55,3 +55,6 @@ Open [http://localhost:8080](http://localhost:8080) to access Open WebUI.
 
 <img width="1185" alt="image" src="https://github.com/user-attachments/assets/e63a6d5d-9655-4ed2-b39b-2db019eca626">
 
+## Pull a model
+
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/243fd811-b382-41c0-9e54-febc636c646b">
