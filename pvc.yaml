@@ -4,8 +4,9 @@ metadata:
   name: ollama-pvc
   namespace: ollama
 spec:
+  storageClassName: local-path
   accessModes:
     - ReadWriteOnce
   resources:
     requests:
-      storage: 1Gi
+      storage: 30Gi
